@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+// Test commit 
+
 export class Doctor {
   id: number;
   name: string;
